@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">03HelloIntents</string>
+    <string name="button_main">Kirim</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Write Your Message</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply</string>
+    <string name="text_header_reply">Reply Recieved</string>
+</resources>
